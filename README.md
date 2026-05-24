@@ -1,6 +1,6 @@
 ## TAB: Task-adaptive Mixture of Experts with Attentional Bias for Graph Learning in LLMs
 
-This repository provides the official implementation and cleaned code for the paper:
+This repository provides the official implementation code for the paper:
 
 **TAB: Task-adaptive Mixture of Experts with Attentional Bias for Graph Learning in LLMs**
 
