@@ -9,7 +9,6 @@ The code focuses on:
 - A unified **graph sequence encoder** that turns graphs into text sequences and attention-bias tensors.
 - **Task-specific evaluation** for a diverse set of graph problems.
 
-All experimental code has been organized and stripped of debugging prints and comments to facilitate open-sourcing.
 
 ### Installation
 
